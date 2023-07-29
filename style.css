@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/*Styling h1*/
+h1{
+    text-align: left;
+    margin:0;
+}
+
+mark{
+    background-color: #e0dfdf;
+}
+/* Styling the main container */
+.container {
+    width: 90%;
+    margin: auto;
+    margin-top: 2rem;
+    letter-spacing: 0.5px;
+    height: auto;
+}
+
+.container-2{
+    margin-top: 5%;
+}
+
+.received-msg-inbox p {
+    background: #e0dfdf6e none repeat scroll 0 0;
+    border-radius: 10px;
+    color: #000000;
+    font-size: 100%;
+    padding: 0.5rem;
+    width: fit-content;
+    margin:1%;
+}
+    p {
+    overflow-wrap: break-word;
+}
+
+/* Styling the msg-sent time  */
+.time {
+    color: #777;
+    display: block;
+    font-size: 12px;
+    margin: 8px 0 0;
+}
+
+
+
