@@ -18,9 +18,10 @@ mark{
 .container {
     width: 90%;
     margin: auto;
-    margin-top: 2rem;
+    margin-top: 3rem;
     letter-spacing: 0.5px;
     height: auto;
+    border-radius: 1rem;
 }
 
 .container-2{
@@ -28,7 +29,7 @@ mark{
 }
 
 .received-msg-inbox p {
-    background: #e0dfdf6e none repeat scroll 0 0;
+    background: #a9a8a89d none repeat scroll 0 0;
     border-radius: 10px;
     color: #000000;
     font-size: 100%;
